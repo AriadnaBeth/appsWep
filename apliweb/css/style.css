@@ -1,0 +1,12 @@
+body {
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: rgb(29, 31, 32);
+}
+
+.registro {
+        font-family: 'Courier New', Courier, monospace; 
+        font-size: 25px; 
+        font-weight: 500; 
+        color: #262a35; 
+        background:#131414 
+}
